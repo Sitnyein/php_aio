@@ -6,10 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <p>joining header exercise</p>
+    header exercise
+    <a href="./home.php">home</a>
+    <h1>about page</h1>
     <?php
-     echo("hello world my name is chankhine");
-     header("Location:https://www.youtube.com");
+     echo "hello world this is about page";
     ?>
 </body>
 </html>
