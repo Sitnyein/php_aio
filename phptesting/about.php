@@ -11,6 +11,7 @@
     <h1>about page</h1>
     <?php
      echo "hello world this is about page";
-    ?>
+
+     ?>
 </body>
 </html>
